@@ -1,6 +1,6 @@
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+สามารถรันได้่เลย เนื่องจาก database ที่ใช้ เป็น sqlite จึงไม่จำเป็นต้องเชื่อมต่อ database
 
 ## Installation
 
